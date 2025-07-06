@@ -1,0 +1,23 @@
+<div class="search-container">
+  <mat-form-field appearance="outline" class="full-width">
+    <mat-label>Search</mat-label>
+    <input matInput [(ngModel)]="searchQuery" (keyup.enter)="onSearch()" />
+  </mat-form-field>
+
+  <button mat-raised-button color="primary" (click)="onSearch()">
+    Search
+  </button>
+
+  <div class="gallery" *ngIf="repositories.length > 0">
+    <mat-card *ngFor="let repo of repositories" class="repo-card">
+      <img mat-card-image [src]="repo.owner?.avatar_url" alt="Avatar" />
+      <mat-card-content>
+        <h3>{{ repo.name }}</h3>
+        <p>{{ repo.owner?.login }}</p>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-button color="accent" (click)="bookmark(repo)">Bookmark</button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>

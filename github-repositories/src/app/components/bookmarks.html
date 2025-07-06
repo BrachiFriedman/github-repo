@@ -1,0 +1,10 @@
+<h2 style="margin-bottom: 20px;">Bookmarked</h2>
+<div *ngIf="bookmarks.length === 0">
+  No bookmarks.
+</div>
+<mat-card *ngFor="let repo of bookmarks">
+  <img [src]="repo.ownerAvatarUrl" width="40" />
+  <h3>{{ repo.name }}</h3>
+  <a [href]="repo.htmlUrl" target="_blank">repo link</a>
+</mat-card>
+

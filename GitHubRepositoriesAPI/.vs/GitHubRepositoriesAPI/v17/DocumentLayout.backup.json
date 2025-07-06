@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|c:\\users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\githubrepositoriesapi\\githubrepositoriesapi\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|solutionrelative:githubrepositoriesapi\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|c:\\users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\githubrepositoriesapi\\githubrepositoriesapi\\classes\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|solutionrelative:githubrepositoriesapi\\classes\\bookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|c:\\users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\githubrepositoriesapi\\githubrepositoriesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|solutionrelative:githubrepositoriesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|c:\\users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\githubrepositoriesapi\\githubrepositoriesapi\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|solutionrelative:githubrepositoriesapi\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|c:\\users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\githubrepositoriesapi\\githubrepositoriesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|solutionrelative:githubrepositoriesapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|c:\\users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\githubrepositoriesapi\\githubrepositoriesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1809257-7BC6-4438-AEA1-EF1573ED57FD}|GitHubRepositoriesAPI\\GitHubRepositoriesAPI.csproj|solutionrelative:githubrepositoriesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "GitHubRepositoriesAPI\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "GitHubRepositoriesAPI\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:26:29.92Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitHubController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Controllers\\GitHubController.cs",
+              "RelativeDocumentMoniker": "GitHubRepositoriesAPI\\Controllers\\GitHubController.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Controllers\\GitHubController.cs",
+              "RelativeToolTip": "GitHubRepositoriesAPI\\Controllers\\GitHubController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:27:43.177Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bookmark.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Classes\\Bookmark.cs",
+              "RelativeDocumentMoniker": "GitHubRepositoriesAPI\\Classes\\Bookmark.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Classes\\Bookmark.cs",
+              "RelativeToolTip": "GitHubRepositoriesAPI\\Classes\\Bookmark.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T19:44:00.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GitHubRepositoriesAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\appsettings.json",
+              "RelativeToolTip": "GitHubRepositoriesAPI\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T09:34:16.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "GitHubRepositoriesAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "GitHubRepositoriesAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T09:09:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GitHubRepositoriesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D1\u05E8\u05DB\u05D9\\source\\repos\\GitHubRepositoriesAPI\\GitHubRepositoriesAPI\\Program.cs",
+              "RelativeToolTip": "GitHubRepositoriesAPI\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:23:36.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

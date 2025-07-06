@@ -1,0 +1,53 @@
+.search-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 20px;
+        margin-top: 30px;
+    }
+
+    .repo-card {
+        transition: 0.2s ease;
+
+        &:hover {
+            transform: scale(1.02);
+        }
+
+        img {
+            width: 100%;
+            height: 160px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+        .repo-card img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+
+        mat-card-header {
+            align-items: center;
+        }
+
+        mat-card-title,
+        mat-card-subtitle {
+            text-align: left;
+        }
+    }
+}
+.success-message {
+  color: green;
+  margin-top: 10px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
