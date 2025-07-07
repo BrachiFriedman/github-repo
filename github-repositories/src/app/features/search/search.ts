@@ -34,37 +34,19 @@ export class SearchComponent {
   }
 
   onSearch(): void {
-
     if (!this.searchQuery.trim()) return;
-
     this.githubService.searchRepositories(this.searchQuery).subscribe(
       (result) => {
         this.repositories = result.items;
       },
       (error) => {
-        console.error('Error fetching repositories', error);
+        console.error('Error onSearch', error);
       }
     );
   }
 
-  bookmarkMessage: string = '';
-  bookmarkError: string = '';
-  bookmark(repo: any): void {
-    console.log('Bookmarking:', repo);
-
+  addNewBookmark(repo: any): void {
     this.githubService.addBookmark(repo).subscribe({
-      next: () => {
-        debugger;
-        this.bookmarkMessage = 'Bookmark saved successfully!';
-        this.bookmarkError = '';
-      },
-      error: err => {
-        debugger;
-        this.bookmarkError = 'Failed to save bookmark.';
-        this.bookmarkMessage = '';
-        console.error('Error saving bookmark', err);
-      }
     });
   }
-
 }

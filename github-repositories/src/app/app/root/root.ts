@@ -11,8 +11,8 @@ import { MatButtonModule } from '@angular/material/button';
 
   template: `
     <nav style="padding: 10px; background: #f3f3f3;">
-      <button mat-button routerLink="/search"> Search</button>
-      <button mat-button routerLink="/bookmarks"> Bookmarks</button>
+      <button mat-button routerLink="/search"> Search Page</button>
+      <button mat-button routerLink="/bookmarks"> Bookmarks List</button>
     </nav>
     <router-outlet></router-outlet>`
 })
@@ -22,7 +22,6 @@ export class RootComponent implements OnInit {
 
   ngOnInit(): void {
     this.githubService.getToken().subscribe(res => {
-      console.log('Token loaded', res.token);
       sessionStorage.setItem('jwt', res.token);
     });
   }

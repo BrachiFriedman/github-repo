@@ -20,10 +20,9 @@ export class BookmarksComponent implements OnInit {
     this.githubService.getBookmarks().subscribe({
       next: (res) => {
         this.bookmarks = res;
-        console.log('Bookmarks loaded:', res);
       },
       error: (err) => {
-        console.error('Error loading bookmarks', err);
+        console.error('Error oninit bookmarks list', err);
       }
     });
   }

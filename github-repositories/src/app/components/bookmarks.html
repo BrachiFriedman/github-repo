@@ -1,6 +1,6 @@
-<h2 style="margin-bottom: 20px;">Bookmarked</h2>
+<h2 style="margin-bottom: 20px;">Bookmarks LIst</h2>
 <div *ngIf="bookmarks.length === 0">
-  No bookmarks.
+  no bookmarks found
 </div>
 <mat-card *ngFor="let repo of bookmarks">
   <img [src]="repo.ownerAvatarUrl" width="40" />
